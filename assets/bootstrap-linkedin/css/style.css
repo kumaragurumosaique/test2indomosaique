@@ -1,0 +1,25 @@
+
+.linkedin-img{
+    object-fit: cover;
+     height: auto;
+     width: auto;
+}
+.linkedin-descript{
+    background-color: #00990E;
+    color: #CC9999;
+}
+.read-more-btn{
+    color: coral !important;
+}
+a{
+    color: coral !important;
+    text-decoration: none;
+
+}
+a :hover{
+    color: coral !important;
+    text-decoration: none;
+}
+.btn-controls-linkedin{
+    margin-top:160px;
+}
