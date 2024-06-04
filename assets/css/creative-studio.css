@@ -14351,3 +14351,25 @@ li .translate-btn:focus{
 }
  */
 
+/* Custom styles for affix states */
+.affix {
+  background-color: #fff !important; /* Dark background color when navbar is fixed */
+}
+
+.affix-top {
+  background-color: transparent; /* Transparent or initial background when at the top */
+}
+
+.affix-bottom {
+  background-color: #fff; /* Another color if you want a different color when at the bottom */
+}
+/* Custom styles for affix state */
+/* Custom styles for affix state */
+.affix-bg .nav-link {
+  background-color: #333; /* Change this to your desired color */
+}
+
+/* Custom styles for affix state */
+.affix .nav-link {
+  color: #fff; /* Change this to your desired color */
+}
